@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "zMF2OVR7eDqnCPqRZOxP3afDSeN7/3mdx9Gpj+6YToI=",
+  "Source": "InventoryManagement.Web",
+  "BasePath": "_content/InventoryManagement.Web",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mohsen\\source\\repos\\InventoryManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{373F3914-5068-4D0B-941A-240739C98A98}|Processes Orders\\OrderProcessing.Core.csproj|c:\\users\\mohsen\\source\\repos\\inventorymanagement\\processes orders\\services\\processitemquantityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{373F3914-5068-4D0B-941A-240739C98A98}|Processes Orders\\OrderProcessing.Core.csproj|solutionrelative:processes orders\\services\\processitemquantityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7810226-5240-4FAB-8941-E65C7C871E5C}|InventoryManagement\\InventoryManagement.Web.csproj|C:\\Users\\mohsen\\source\\repos\\InventoryManagement\\inventorymanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E7810226-5240-4FAB-8941-E65C7C871E5C}|InventoryManagement\\InventoryManagement.Web.csproj|solutionrelative:inventorymanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mohsen\\source\\repos\\InventoryManagement\\InventoryManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "InventoryManagement\\appsettings.json",
+              "ToolTip": "C:\\Users\\mohsen\\source\\repos\\InventoryManagement\\InventoryManagement\\appsettings.json",
+              "RelativeToolTip": "InventoryManagement\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-07T17:56:31.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProcessItemQuantityService.cs",
+              "DocumentMoniker": "C:\\Users\\mohsen\\source\\repos\\InventoryManagement\\Processes Orders\\Services\\ProcessItemQuantityService.cs",
+              "RelativeDocumentMoniker": "Processes Orders\\Services\\ProcessItemQuantityService.cs",
+              "ToolTip": "C:\\Users\\mohsen\\source\\repos\\InventoryManagement\\Processes Orders\\Services\\ProcessItemQuantityService.cs",
+              "RelativeToolTip": "Processes Orders\\Services\\ProcessItemQuantityService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T17:47:53.015Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

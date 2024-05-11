@@ -1,0 +1,12 @@
+C:\Users\mohsen\source\repos\InventoryManagement\Processes Orders\bin\Debug\net6.0\OrderProcessing.Core.deps.json
+C:\Users\mohsen\source\repos\InventoryManagement\Processes Orders\bin\Debug\net6.0\OrderProcessing.Core.dll
+C:\Users\mohsen\source\repos\InventoryManagement\Processes Orders\bin\Debug\net6.0\OrderProcessing.Core.pdb
+C:\Users\mohsen\source\repos\InventoryManagement\Processes Orders\obj\Debug\net6.0\OrderProcessing.Core.csproj.AssemblyReference.cache
+C:\Users\mohsen\source\repos\InventoryManagement\Processes Orders\obj\Debug\net6.0\OrderProcessing.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mohsen\source\repos\InventoryManagement\Processes Orders\obj\Debug\net6.0\OrderProcessing.Core.AssemblyInfoInputs.cache
+C:\Users\mohsen\source\repos\InventoryManagement\Processes Orders\obj\Debug\net6.0\OrderProcessing.Core.AssemblyInfo.cs
+C:\Users\mohsen\source\repos\InventoryManagement\Processes Orders\obj\Debug\net6.0\OrderProcessing.Core.csproj.CoreCompileInputs.cache
+C:\Users\mohsen\source\repos\InventoryManagement\Processes Orders\obj\Debug\net6.0\OrderProcessing.Core.dll
+C:\Users\mohsen\source\repos\InventoryManagement\Processes Orders\obj\Debug\net6.0\refint\OrderProcessing.Core.dll
+C:\Users\mohsen\source\repos\InventoryManagement\Processes Orders\obj\Debug\net6.0\OrderProcessing.Core.pdb
+C:\Users\mohsen\source\repos\InventoryManagement\Processes Orders\obj\Debug\net6.0\ref\OrderProcessing.Core.dll

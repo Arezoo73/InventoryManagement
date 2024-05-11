@@ -1,0 +1,17 @@
+C:\Users\mohsen\source\repos\InventoryManagement\InventoryManagement.Data\obj\Debug\net6.0\InventoryManagement.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mohsen\source\repos\InventoryManagement\InventoryManagement.Data\obj\Debug\net6.0\InventoryManagement.Data.AssemblyInfoInputs.cache
+C:\Users\mohsen\source\repos\InventoryManagement\InventoryManagement.Data\obj\Debug\net6.0\InventoryManagement.Data.AssemblyInfo.cs
+C:\Users\mohsen\source\repos\InventoryManagement\InventoryManagement.Data\obj\Debug\net6.0\InventoryManagement.Data.csproj.CoreCompileInputs.cache
+C:\Users\mohsen\source\repos\InventoryManagement\InventoryManagement.Data\bin\Debug\net6.0\InventoryManagement.Data.deps.json
+C:\Users\mohsen\source\repos\InventoryManagement\InventoryManagement.Data\bin\Debug\net6.0\InventoryManagement.Data.runtimeconfig.json
+C:\Users\mohsen\source\repos\InventoryManagement\InventoryManagement.Data\bin\Debug\net6.0\InventoryManagement.Data.dll
+C:\Users\mohsen\source\repos\InventoryManagement\InventoryManagement.Data\bin\Debug\net6.0\InventoryManagement.Data.pdb
+C:\Users\mohsen\source\repos\InventoryManagement\InventoryManagement.Data\bin\Debug\net6.0\InventoryManagement.Model.dll
+C:\Users\mohsen\source\repos\InventoryManagement\InventoryManagement.Data\bin\Debug\net6.0\InventoryManagement.Model.pdb
+C:\Users\mohsen\source\repos\InventoryManagement\InventoryManagement.Data\obj\Debug\net6.0\InventoryManagement.Data.csproj.AssemblyReference.cache
+C:\Users\mohsen\source\repos\InventoryManagement\InventoryManagement.Data\obj\Debug\net6.0\Inventor.F8EBDD60.Up2Date
+C:\Users\mohsen\source\repos\InventoryManagement\InventoryManagement.Data\obj\Debug\net6.0\InventoryManagement.Data.dll
+C:\Users\mohsen\source\repos\InventoryManagement\InventoryManagement.Data\obj\Debug\net6.0\refint\InventoryManagement.Data.dll
+C:\Users\mohsen\source\repos\InventoryManagement\InventoryManagement.Data\obj\Debug\net6.0\InventoryManagement.Data.pdb
+C:\Users\mohsen\source\repos\InventoryManagement\InventoryManagement.Data\obj\Debug\net6.0\InventoryManagement.Data.genruntimeconfig.cache
+C:\Users\mohsen\source\repos\InventoryManagement\InventoryManagement.Data\obj\Debug\net6.0\ref\InventoryManagement.Data.dll

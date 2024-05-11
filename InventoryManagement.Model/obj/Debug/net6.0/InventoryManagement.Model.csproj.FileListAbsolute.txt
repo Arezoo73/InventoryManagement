@@ -1,0 +1,11 @@
+C:\Users\mohsen\source\repos\InventoryManagement\InventoryManagement.Model\bin\Debug\net6.0\InventoryManagement.Model.deps.json
+C:\Users\mohsen\source\repos\InventoryManagement\InventoryManagement.Model\bin\Debug\net6.0\InventoryManagement.Model.dll
+C:\Users\mohsen\source\repos\InventoryManagement\InventoryManagement.Model\bin\Debug\net6.0\InventoryManagement.Model.pdb
+C:\Users\mohsen\source\repos\InventoryManagement\InventoryManagement.Model\obj\Debug\net6.0\InventoryManagement.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mohsen\source\repos\InventoryManagement\InventoryManagement.Model\obj\Debug\net6.0\InventoryManagement.Model.AssemblyInfoInputs.cache
+C:\Users\mohsen\source\repos\InventoryManagement\InventoryManagement.Model\obj\Debug\net6.0\InventoryManagement.Model.AssemblyInfo.cs
+C:\Users\mohsen\source\repos\InventoryManagement\InventoryManagement.Model\obj\Debug\net6.0\InventoryManagement.Model.csproj.CoreCompileInputs.cache
+C:\Users\mohsen\source\repos\InventoryManagement\InventoryManagement.Model\obj\Debug\net6.0\InventoryManagement.Model.dll
+C:\Users\mohsen\source\repos\InventoryManagement\InventoryManagement.Model\obj\Debug\net6.0\refint\InventoryManagement.Model.dll
+C:\Users\mohsen\source\repos\InventoryManagement\InventoryManagement.Model\obj\Debug\net6.0\InventoryManagement.Model.pdb
+C:\Users\mohsen\source\repos\InventoryManagement\InventoryManagement.Model\obj\Debug\net6.0\ref\InventoryManagement.Model.dll
